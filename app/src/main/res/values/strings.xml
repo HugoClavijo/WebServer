@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Web Server</string>
+    <string name="default_text">This is a test fragment</string>
 </resources>
